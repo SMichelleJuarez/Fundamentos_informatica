@@ -13,3 +13,5 @@ Elegir cualquier tema/entidad, diseñar un programa en python que cumplas los si
 resguardo en una base de datos MySQL, uso de librerías gráficas, etc.)
 Teniendo en cuenta que el trabajo es individual, los estudiantes no pueden tener el mismo enunciado y descripción
 del sistema. Es decir, que deberán incluir alguna particularidad o característica que lo haga singular.
+
+############ Se debe tener instalado python y la extencion xls. El comando en la consola cmd es: pip install openpyxls
