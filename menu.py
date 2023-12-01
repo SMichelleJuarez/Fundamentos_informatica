@@ -1,0 +1,12 @@
+def menu():
+    print("-----------------------------------")
+    print("¡Bienvenidos al menu bancario!")
+    print("Usted puede realizar las siguientes operaciones: ")
+    print("1. Para calcular el monto mayor")
+    print("2. Para calcular el monto menor")
+    print("3. Calcular el promedio")
+    print("4. Calcular el porcentaje de distrubución por género")
+    print("5. Buscar a un cliente por medio del nombre")
+    print("6. Buscar a un cliente por medio del DNI")
+    print("7. Exportar datos")
+    print("8. Salir.")
